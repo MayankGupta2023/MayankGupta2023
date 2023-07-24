@@ -1,4 +1,4 @@
-[![MasterHead](https://previews.123rf.com/images/azaman357/azaman3571603/azaman357160300007/53371175-flat-designed-banner-for-web-development-with-long-shadows.jpg)](https://mayankgupta2023.io)
+
 <h1 align="center">Hi 👋, I'm Mayank Gupta</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
