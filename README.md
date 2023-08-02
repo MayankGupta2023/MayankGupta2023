@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently working on **Around The World College Club Website**
+- 🔭 I’m currently working as a intern in **My-Era**
 
 - 🌱 I’m currently learning **React JS**
 
